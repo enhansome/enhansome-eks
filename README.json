@@ -1,0 +1,888 @@
+{
+  "items": [
+    {
+      "description": "Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes control plane. Kubernetes is an open-source system for automating the deployment, scaling, and management of containerized applications.\nAmazon EKS runs Kubernetes control plane instances across multiple Availability Zone to ensure high availability. Amazon EKS automatically detects and replaces unhealthy control plane instances, and it provides automated version upgrades and patching for them.\nAmazon EKS runs up-to-date versions of the open-source Kubernetes software, so you can use all the existing plugins and tooling from the Kubernetes community. Applications running on Amazon EKS are fully compatible with applications running on any standard Kubernetes environment, whether running in on-premises data centers or public clouds. This means that you can easily migrate any standard Kubernetes application to Amazon EKS without any code modification required.",
+      "items": [],
+      "title": "What is EKS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cdk8s",
+          "description": "Define Kubernetes native apps and abstractions using object-oriented programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T16:07:45Z",
+            "owner": "cdk8s-team",
+            "repo": "cdk8s",
+            "stars": 4847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-k8s-tester",
+          "description": "Implements , creates/deletes testing EKS cluster with various add-ons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T00:07:53Z",
+            "owner": "aws",
+            "repo": "aws-k8s-tester",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ekstender",
+          "description": "tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-08-11T12:05:10Z",
+            "owner": "mreferre",
+            "repo": "ekstender",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octant",
+          "description": "Deploy VMware Octant on a EKS Cluster using Pulumi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-08-21T22:12:39Z",
+            "owner": "metral",
+            "repo": "octumi",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Cluster management tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AWS Node Termination Handler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T22:42:37Z",
+            "owner": "aws",
+            "repo": "aws-node-termination-handler",
+            "stars": 1763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EKS Rolling Update",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T12:37:32Z",
+            "owner": "hellofresh",
+            "repo": "eks-rolling-update",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amazon-k8s-node-drainer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-02-21T13:04:06Z",
+            "owner": "aws-samples",
+            "repo": "amazon-k8s-node-drainer",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "Data plane management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "k9s",
+          "description": "Provides a terminal UI to interact with your Kubernetes clusters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T17:02:31Z",
+            "owner": "derailed",
+            "repo": "k9s",
+            "stars": 34342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectx",
+          "description": "Faster way to switch between clusters and namespaces in kubectl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T01:42:33Z",
+            "owner": "ahmetb",
+            "repo": "kubectx",
+            "stars": 19936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-ps1",
+          "description": "Kubernetes prompt for bash and zsh. Adds the current context and namespace to the prompt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-24T12:10:07Z",
+            "owner": "jonmosco",
+            "repo": "kube-ps1",
+            "stars": 3806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl tree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T01:24:06Z",
+            "owner": "ahmetb",
+            "repo": "kubectl-tree",
+            "stars": 3416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kui",
+          "description": "A hybrid command-line/UI development experience for cloud-native development",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-07-12T22:06:01Z",
+            "owner": "kubernetes-retired",
+            "repo": "kui",
+            "stars": 2896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl debug",
+          "description": "Debug your pod by a new container with every troubleshooting tools pre-installed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-19T02:52:57Z",
+            "owner": "aylei",
+            "repo": "kubectl-debug",
+            "stars": 2301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-27T06:00:21Z",
+            "owner": "jordanwilson230",
+            "repo": "kubectl-plugins",
+            "stars": 636
+          }
+        }
+      ],
+      "title": "CLI tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kyverno",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:24:38Z",
+            "owner": "kyverno",
+            "repo": "kyverno",
+            "stars": 8031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-hunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-19T12:30:55Z",
+            "owner": "aquasecurity",
+            "repo": "kube-hunter",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatekeeper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T22:09:20Z",
+            "owner": "open-policy-agent",
+            "repo": "gatekeeper",
+            "stars": 4263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bane",
+          "description": "Custom & better AppArmor profile generator for Docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-09-17T20:10:45Z",
+            "owner": "genuinetools",
+            "repo": "bane",
+            "stars": 1230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eksuser",
+          "description": "Utility to manage Amazon EKS users",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-06-30T13:04:50Z",
+            "owner": "prabhatsharma",
+            "repo": "eksuser",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ksniff",
+          "description": "Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-02T03:16:37Z",
+            "owner": "eldadru",
+            "repo": "ksniff",
+            "stars": 3473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS VPC CNI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T16:55:31Z",
+            "owner": "aws",
+            "repo": "amazon-vpc-cni-k8s",
+            "stars": 2451
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docker-bench-security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-04T18:11:52Z",
+            "owner": "docker",
+            "repo": "docker-bench-security",
+            "stars": 9686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-bench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:35:30Z",
+            "owner": "aquasecurity",
+            "repo": "kube-bench",
+            "stars": 8140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actuary",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-09-15T17:12:16Z",
+            "owner": "diogomonica",
+            "repo": "actuary",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Compliance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kubeaudit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-08-21T18:48:27Z",
+            "owner": "Shopify",
+            "repo": "kubeaudit",
+            "stars": 1935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MKIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dockerfile",
+            "last_commit": "2021-09-16T13:46:12Z",
+            "owner": "darkbitio",
+            "repo": "mkit",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaudit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-08T12:32:41Z",
+            "owner": "alcideio",
+            "repo": "kaudit",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Audit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mizu",
+          "description": "The API Traffic Viewer for Kubernetes (Think TCPDump and Wireshark re-invented for Kubernetes)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:08:27Z",
+            "owner": "kubeshark",
+            "repo": "kubeshark",
+            "stars": 12037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-state-metrics",
+          "description": "Add-on agent to generate and expose cluster-level metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:09:35Z",
+            "owner": "kubernetes",
+            "repo": "kube-state-metrics",
+            "stars": 6171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8s-image-availability-exporter",
+          "description": "Alerts if an image used in Kubernetes cannot be pulled from container registry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T13:23:13Z",
+            "owner": "deckhouse",
+            "repo": "k8s-image-availability-exporter",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Multi-cluster Kubernetes dashboard with real-time observability, AI-powered operations, and CNCF project integrations across EKS and other clusters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:28:54Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kubespy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:18:52Z",
+            "owner": "pulumi",
+            "repo": "kubespy",
+            "stars": 3078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sloop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-17T16:38:56Z",
+            "owner": "salesforce",
+            "repo": "sloop",
+            "stars": 1580
+          }
+        }
+      ],
+      "title": "Troubleshooting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spinnaker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T17:40:17Z",
+            "owner": "spinnaker",
+            "repo": "spinnaker",
+            "stars": 9763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flux",
+          "description": "The GitOps Kubernetes operator",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-11-01T15:16:50Z",
+            "owner": "fluxcd",
+            "repo": "flux",
+            "stars": 6857
+          }
+        }
+      ],
+      "title": "CI and CD tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Goldilocks vertical-pod-autoscaler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:42:28Z",
+            "owner": "FairwindsOps",
+            "repo": "goldilocks",
+            "stars": 3312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Escalator",
+          "description": "A batch or job optimized horizontal autoscaler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T23:46:26Z",
+            "owner": "atlassian",
+            "repo": "escalator",
+            "stars": 686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-metrics-adapter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T07:51:01Z",
+            "owner": "zalando-incubator",
+            "repo": "kube-metrics-adapter",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "right-size-guide",
+          "description": "A CLI tool providing memory & CPU recommendations for containerized apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-03-26T11:03:30Z",
+            "owner": "mhausenblas",
+            "repo": "right-size-guide",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Pod scaling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chaos Mesh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T17:44:46Z",
+            "owner": "chaos-mesh",
+            "repo": "chaos-mesh",
+            "stars": 7844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LitmusChaos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T04:40:44Z",
+            "owner": "litmuschaos",
+            "repo": "litmus",
+            "stars": 5594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-monkey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:56:37Z",
+            "owner": "asobti",
+            "repo": "kube-monkey",
+            "stars": 3063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerfulSeal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-10T18:28:39Z",
+            "owner": "powerfulseal",
+            "repo": "powerfulseal",
+            "stars": 1976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chaoskube",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T07:02:34Z",
+            "owner": "linki",
+            "repo": "chaoskube",
+            "stars": 1934
+          }
+        }
+      ],
+      "title": "Chaos testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T16:39:08Z",
+            "owner": "rook",
+            "repo": "rook",
+            "stars": 13596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon EBS CSI driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T14:10:41Z",
+            "owner": "kubernetes-sigs",
+            "repo": "aws-ebs-csi-driver",
+            "stars": 1134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon EFS CSI driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T15:55:16Z",
+            "owner": "kubernetes-sigs",
+            "repo": "aws-efs-csi-driver",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon FSx for Lustre CSI driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T20:14:33Z",
+            "owner": "kubernetes-sigs",
+            "repo": "aws-fsx-csi-driver",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ALB Ingress Controller",
+          "description": "AWS ALB Ingress Controller for Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T06:14:16Z",
+            "owner": "kubernetes-sigs",
+            "repo": "aws-load-balancer-controller",
+            "stars": 4319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contour",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T19:01:26Z",
+            "owner": "projectcontour",
+            "repo": "contour",
+            "stars": 3943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gloo",
+          "description": "The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:33:20Z",
+            "owner": "solo-io",
+            "repo": "gloo",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Ingress"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kong",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-04T09:27:18Z",
+            "owner": "Kong",
+            "repo": "kong",
+            "stars": 43974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ambassador",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:15:40Z",
+            "owner": "emissary-ingress",
+            "repo": "emissary",
+            "stars": 4518
+          }
+        }
+      ],
+      "title": "API gateways"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AWS container services roadmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-25T18:13:16Z",
+            "owner": "aws",
+            "repo": "containers-roadmap",
+            "stars": 5358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Container content ideas for AWS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-09-08T20:34:38Z",
+            "owner": "awslabs",
+            "repo": "container-content-ideas-for-aws",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "@realvz",
+      "items": [],
+      "title": "Maintainers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:08:17.006Z",
+    "original_repository": "realvz/awesome-eks",
+    "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
+    "enhanced_repository": "enhansome/enhansome-eks",
+    "enhanced_repository_description": null,
+    "title": "Awesome eks with stars"
+  }
+}
