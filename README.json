@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T16:07:45Z",
+            "last_commit": "2026-08-14T09:55:58Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4847
+            "stars": 4849
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-09T00:07:53Z",
             "owner": "aws",
             "repo": "aws-k8s-tester",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -126,10 +126,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-08T17:02:31Z",
+            "last_commit": "2026-08-14T16:24:15Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34342
+            "stars": 34349
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19936
+            "stars": 19938
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-27T01:24:06Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3416
+            "stars": 3415
           }
         },
         {
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T15:24:38Z",
+            "last_commit": "2026-08-14T14:26:37Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8031
+            "stars": 8032
           }
         },
         {
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T21:08:27Z",
+            "last_commit": "2026-08-13T20:05:35Z",
             "owner": "kubeshark",
             "repo": "kubeshark",
-            "stars": 12037
+            "stars": 12041
           }
         },
         {
@@ -450,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T02:09:35Z",
+            "last_commit": "2026-08-14T00:49:36Z",
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
-            "stars": 6171
+            "stars": 6173
           }
         },
         {
@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:28:54Z",
+            "last_commit": "2026-08-14T18:02:40Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -498,7 +498,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T17:18:52Z",
+            "last_commit": "2026-08-13T19:44:16Z",
             "owner": "pulumi",
             "repo": "kubespy",
             "stars": 3078
@@ -532,7 +532,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T17:40:17Z",
+            "last_commit": "2026-08-14T16:32:42Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
             "stars": 9763
@@ -566,10 +566,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T15:42:28Z",
+            "last_commit": "2026-08-14T14:41:19Z",
             "owner": "FairwindsOps",
             "repo": "goldilocks",
-            "stars": 3312
+            "stars": 3314
           }
         },
         {
@@ -594,7 +594,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T07:51:01Z",
+            "last_commit": "2026-08-13T22:17:54Z",
             "owner": "zalando-incubator",
             "repo": "kube-metrics-adapter",
             "stars": 543
@@ -631,7 +631,7 @@
             "last_commit": "2026-08-07T17:44:46Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7844
+            "stars": 7843
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-07-31T04:40:44Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5594
+            "stars": 5595
           }
         },
         {
@@ -704,7 +704,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T16:39:08Z",
+            "last_commit": "2026-08-14T18:06:58Z",
             "owner": "rook",
             "repo": "rook",
             "stars": 13596
@@ -735,7 +735,7 @@
             "last_commit": "2026-08-03T15:55:16Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-efs-csi-driver",
-            "stars": 803
+            "stars": 804
           }
         },
         {
@@ -817,7 +817,7 @@
             "last_commit": "2026-08-04T09:27:18Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43974
+            "stars": 43983
           }
         },
         {
@@ -828,7 +828,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:15:40Z",
+            "last_commit": "2026-08-13T21:02:45Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
             "stars": 4518
@@ -851,7 +851,7 @@
             "last_commit": "2025-03-25T18:13:16Z",
             "owner": "aws",
             "repo": "containers-roadmap",
-            "stars": 5358
+            "stars": 5357
           }
         },
         {
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:08:17.006Z",
+    "last_updated": "2026-08-14T18:07:43.148Z",
     "original_repository": "realvz/awesome-eks",
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
     "enhanced_repository": "enhansome/enhansome-eks",
