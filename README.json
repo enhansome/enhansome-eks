@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T09:55:58Z",
+            "last_commit": "2026-08-15T09:36:49Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4849
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-14T16:24:15Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34349
+            "stars": 34357
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19938
+            "stars": 19940
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-08-14T14:26:37Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8032
+            "stars": 8039
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2024-03-19T12:30:55Z",
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5077
+            "stars": 5076
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-10T22:09:20Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4263
+            "stars": 4265
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-06-04T18:11:52Z",
             "owner": "docker",
             "repo": "docker-bench-security",
-            "stars": 9686
+            "stars": 9687
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-10T19:35:30Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8140
+            "stars": 8141
           }
         },
         {
@@ -439,7 +439,7 @@
             "last_commit": "2026-08-13T20:05:35Z",
             "owner": "kubeshark",
             "repo": "kubeshark",
-            "stars": 12041
+            "stars": 12042
           }
         },
         {
@@ -450,7 +450,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T00:49:36Z",
+            "last_commit": "2026-08-15T01:16:10Z",
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
             "stars": 6173
@@ -478,10 +478,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:02:40Z",
+            "last_commit": "2026-08-15T15:51:04Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 127
+            "stars": 128
           }
         }
       ],
@@ -498,7 +498,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:44:16Z",
+            "last_commit": "2026-08-14T19:04:51Z",
             "owner": "pulumi",
             "repo": "kubespy",
             "stars": 3078
@@ -535,7 +535,7 @@
             "last_commit": "2026-08-14T16:32:42Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
-            "stars": 9763
+            "stars": 9764
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2022-11-01T15:16:50Z",
             "owner": "fluxcd",
             "repo": "flux",
-            "stars": 6857
+            "stars": 6856
           }
         }
       ],
@@ -673,7 +673,7 @@
             "last_commit": "2023-11-10T18:28:39Z",
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1976
+            "stars": 1977
           }
         },
         {
@@ -704,10 +704,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:06:58Z",
+            "last_commit": "2026-08-14T21:04:15Z",
             "owner": "rook",
             "repo": "rook",
-            "stars": 13596
+            "stars": 13598
           }
         },
         {
@@ -794,7 +794,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:33:20Z",
+            "last_commit": "2026-08-14T20:11:28Z",
             "owner": "solo-io",
             "repo": "gloo",
             "stars": 169
@@ -817,7 +817,7 @@
             "last_commit": "2026-08-04T09:27:18Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43983
+            "stars": 43987
           }
         },
         {
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:07:43.148Z",
+    "last_updated": "2026-08-15T17:35:46.618Z",
     "original_repository": "realvz/awesome-eks",
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
     "enhanced_repository": "enhansome/enhansome-eks",
