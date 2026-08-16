@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T09:36:49Z",
+            "last_commit": "2026-08-16T09:36:56Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4849
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-09T00:07:53Z",
+            "last_commit": "2026-08-16T00:04:52Z",
             "owner": "aws",
             "repo": "aws-k8s-tester",
             "stars": 184
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-14T16:24:15Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34357
+            "stars": 34370
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19940
+            "stars": 19941
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-08-14T14:26:37Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8039
+            "stars": 8043
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-06-04T18:11:52Z",
             "owner": "docker",
             "repo": "docker-bench-security",
-            "stars": 9687
+            "stars": 9689
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-10T19:35:30Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8141
+            "stars": 8142
           }
         },
         {
@@ -439,7 +439,7 @@
             "last_commit": "2026-08-13T20:05:35Z",
             "owner": "kubeshark",
             "repo": "kubeshark",
-            "stars": 12042
+            "stars": 12044
           }
         },
         {
@@ -450,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T01:16:10Z",
+            "last_commit": "2026-08-16T02:27:55Z",
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
-            "stars": 6173
+            "stars": 6174
           }
         },
         {
@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T15:51:04Z",
+            "last_commit": "2026-08-16T16:58:43Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -707,7 +707,7 @@
             "last_commit": "2026-08-14T21:04:15Z",
             "owner": "rook",
             "repo": "rook",
-            "stars": 13598
+            "stars": 13599
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2026-08-13T06:14:16Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-load-balancer-controller",
-            "stars": 4319
+            "stars": 4320
           }
         },
         {
@@ -814,7 +814,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-04T09:27:18Z",
+            "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
             "stars": 43987
@@ -851,7 +851,7 @@
             "last_commit": "2025-03-25T18:13:16Z",
             "owner": "aws",
             "repo": "containers-roadmap",
-            "stars": 5357
+            "stars": 5356
           }
         },
         {
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:35:46.618Z",
+    "last_updated": "2026-08-16T17:34:16.985Z",
     "original_repository": "realvz/awesome-eks",
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
     "enhanced_repository": "enhansome/enhansome-eks",
