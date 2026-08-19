@@ -12,7 +12,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:17:44Z",
+            "last_commit": "2026-08-19T17:24:49Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-19T08:24:07Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34390
+            "stars": 34392
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19947
+            "stars": 19950
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-24T12:10:07Z",
             "owner": "jonmosco",
             "repo": "kube-ps1",
-            "stars": 3805
+            "stars": 3806
           }
         },
         {
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-19T08:38:36Z",
+            "last_commit": "2026-08-19T14:01:57Z",
             "owner": "kyverno",
             "repo": "kyverno",
             "stars": 8052
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-18T08:46:23Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8146
+            "stars": 8147
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-18T20:56:27Z",
             "owner": "kubeshark",
             "repo": "kubeshark",
-            "stars": 12052
+            "stars": 12053
           }
         },
         {
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:48:09Z",
+            "last_commit": "2026-08-19T17:07:23Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -561,7 +561,7 @@
             "archived": false,
             "id": 21436816,
             "language": "Java",
-            "last_commit": "2026-08-18T23:23:07Z",
+            "last_commit": "2026-08-19T14:49:43Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
             "stars": 9768
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-18T15:56:12Z",
             "owner": "FairwindsOps",
             "repo": "goldilocks",
-            "stars": 3315
+            "stars": 3316
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-18T07:23:54Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7846
+            "stars": 7847
           }
         },
         {
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 62921553,
             "language": "Go",
-            "last_commit": "2026-08-18T16:51:11Z",
+            "last_commit": "2026-08-19T16:42:03Z",
             "owner": "rook",
             "repo": "rook",
             "stars": 13602
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 139728360,
             "language": "Go",
-            "last_commit": "2026-08-18T17:13:08Z",
+            "last_commit": "2026-08-19T16:33:10Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-ebs-csi-driver",
             "stars": 1134
@@ -774,7 +774,7 @@
             "archived": false,
             "id": 162647455,
             "language": "Go",
-            "last_commit": "2026-08-18T19:41:44Z",
+            "last_commit": "2026-08-19T15:47:30Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-efs-csi-driver",
             "stars": 804
@@ -828,7 +828,7 @@
             "last_commit": "2026-08-18T16:06:56Z",
             "owner": "projectcontour",
             "repo": "contour",
-            "stars": 3944
+            "stars": 3945
           }
         },
         {
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 885037479,
             "language": "Go",
-            "last_commit": "2026-08-18T21:48:49Z",
+            "last_commit": "2026-08-19T15:50:28Z",
             "owner": "solo-io",
             "repo": "gloo",
             "stars": 169
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44002
+            "stars": 44003
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-08-18T07:31:28Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4517
+            "stars": 4518
           }
         }
       ],
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:09.280Z",
+    "last_updated": "2026-08-19T17:42:20.022Z",
     "original_repository": "realvz/awesome-eks",
     "original_repository_id": 263441553,
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
