@@ -12,7 +12,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:48:45Z",
+            "last_commit": "2026-08-24T17:46:30Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19954
+            "stars": 19955
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-24T01:23:56Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3416
+            "stars": 3417
           }
         },
         {
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-24T10:51:26Z",
+            "last_commit": "2026-08-24T17:43:24Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4267
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:26:46Z",
+            "last_commit": "2026-08-24T17:45:08Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -561,7 +561,7 @@
             "archived": false,
             "id": 21436816,
             "language": "Java",
-            "last_commit": "2026-08-24T14:29:03Z",
+            "last_commit": "2026-08-24T17:42:50Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
             "stars": 9774
@@ -627,7 +627,7 @@
             "archived": false,
             "id": 152067384,
             "language": "Go",
-            "last_commit": "2026-08-24T14:02:54Z",
+            "last_commit": "2026-08-24T15:55:25Z",
             "owner": "zalando-incubator",
             "repo": "kube-metrics-adapter",
             "stars": 543
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-12T20:56:37Z",
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3067
+            "stars": 3068
           }
         },
         {
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 62921553,
             "language": "Go",
-            "last_commit": "2026-08-24T13:59:12Z",
+            "last_commit": "2026-08-24T17:21:33Z",
             "owner": "rook",
             "repo": "rook",
             "stars": 13609
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:07.637Z",
+    "last_updated": "2026-08-24T17:47:39.486Z",
     "original_repository": "realvz/awesome-eks",
     "original_repository_id": 263441553,
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
