@@ -12,7 +12,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T09:37:16Z",
+            "last_commit": "2026-08-24T09:48:45Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-21T12:12:45Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34413
+            "stars": 34421
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19952
+            "stars": 19954
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 229827299,
             "language": "Go",
-            "last_commit": "2026-07-27T01:24:06Z",
+            "last_commit": "2026-08-24T01:23:56Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
             "stars": 3416
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-21T07:07:57Z",
+            "last_commit": "2026-08-24T12:59:36Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8060
+            "stars": 8064
           }
         },
         {
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-21T20:05:31Z",
+            "last_commit": "2026-08-24T10:51:26Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4267
@@ -360,7 +360,7 @@
             "last_commit": "2026-06-04T18:11:52Z",
             "owner": "docker",
             "repo": "docker-bench-security",
-            "stars": 9693
+            "stars": 9694
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-18T08:46:23Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8148
+            "stars": 8150
           }
         },
         {
@@ -474,7 +474,7 @@
             "archived": false,
             "id": 58184885,
             "language": "Go",
-            "last_commit": "2026-08-20T20:13:19Z",
+            "last_commit": "2026-08-23T19:07:25Z",
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
             "stars": 6183
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:04:11Z",
+            "last_commit": "2026-08-24T14:26:46Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 149165150,
             "language": "Go",
-            "last_commit": "2026-08-22T06:39:03Z",
+            "last_commit": "2026-08-24T11:14:12Z",
             "owner": "pulumi",
             "repo": "kubespy",
             "stars": 3078
@@ -543,7 +543,7 @@
             "last_commit": "2026-02-17T16:38:56Z",
             "owner": "salesforce",
             "repo": "sloop",
-            "stars": 1581
+            "stars": 1583
           }
         }
       ],
@@ -561,10 +561,10 @@
             "archived": false,
             "id": 21436816,
             "language": "Java",
-            "last_commit": "2026-08-22T02:49:55Z",
+            "last_commit": "2026-08-24T14:29:03Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
-            "stars": 9773
+            "stars": 9774
           }
         },
         {
@@ -627,7 +627,7 @@
             "archived": false,
             "id": 152067384,
             "language": "Go",
-            "last_commit": "2026-08-21T10:32:17Z",
+            "last_commit": "2026-08-24T14:02:54Z",
             "owner": "zalando-incubator",
             "repo": "kube-metrics-adapter",
             "stars": 543
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-18T07:23:54Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7853
+            "stars": 7855
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-07-31T04:40:44Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5600
+            "stars": 5601
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2023-11-10T18:28:39Z",
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1979
+            "stars": 1980
           }
         },
         {
@@ -744,10 +744,10 @@
             "archived": false,
             "id": 62921553,
             "language": "Go",
-            "last_commit": "2026-08-21T22:08:05Z",
+            "last_commit": "2026-08-24T13:59:12Z",
             "owner": "rook",
             "repo": "rook",
-            "stars": 13606
+            "stars": 13609
           }
         },
         {
@@ -825,7 +825,7 @@
             "archived": false,
             "id": 108462822,
             "language": "HTML",
-            "last_commit": "2026-08-18T16:06:56Z",
+            "last_commit": "2026-08-24T09:53:57Z",
             "owner": "projectcontour",
             "repo": "contour",
             "stars": 3945
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44026
+            "stars": 44029
           }
         },
         {
@@ -884,6 +884,48 @@
         }
       ],
       "title": "API gateways"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubernetes Opex Analytics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165441156,
+            "language": "Python",
+            "last_commit": "2026-08-19T04:22:30Z",
+            "owner": "realopslabs",
+            "repo": "kubeledger",
+            "stars": 484
+          }
+        }
+      ],
+      "title": "Cost allocation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubeflow",
+          "description": "Machine Learning Toolkit for Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112647343,
+            "language": null,
+            "last_commit": "2026-08-21T18:25:34Z",
+            "owner": "kubeflow",
+            "repo": "kubeflow",
+            "stars": 15827
+          }
+        }
+      ],
+      "title": "Machine learning"
     },
     {
       "description": null,
@@ -923,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:35:51.832Z",
+    "last_updated": "2026-08-24T14:30:07.637Z",
     "original_repository": "realvz/awesome-eks",
     "original_repository_id": 263441553,
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
