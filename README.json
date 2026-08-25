@@ -12,7 +12,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T18:19:01Z",
+            "last_commit": "2026-08-25T17:16:30Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 167596393,
             "language": "Go",
-            "last_commit": "2026-08-24T23:04:14Z",
+            "last_commit": "2026-08-25T08:31:51Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34425
+            "stars": 34428
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19956
+            "stars": 19960
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-25T02:22:44Z",
+            "last_commit": "2026-08-25T16:02:06Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8068
+            "stars": 8070
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2024-03-19T12:30:55Z",
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5078
+            "stars": 5079
           }
         },
         {
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-24T22:39:49Z",
+            "last_commit": "2026-08-25T17:27:31Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4268
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 359419233,
             "language": "Go",
-            "last_commit": "2026-08-18T20:56:27Z",
+            "last_commit": "2026-08-25T06:18:46Z",
             "owner": "kubeshark",
             "repo": "kubeshark",
             "stars": 12056
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-23T19:07:25Z",
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
-            "stars": 6183
+            "stars": 6184
           }
         },
         {
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:04:57Z",
+            "last_commit": "2026-08-25T17:33:34Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -561,7 +561,7 @@
             "archived": false,
             "id": 21436816,
             "language": "Java",
-            "last_commit": "2026-08-24T22:44:37Z",
+            "last_commit": "2026-08-25T15:31:32Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
             "stars": 9774
@@ -678,10 +678,10 @@
             "archived": false,
             "id": 85039965,
             "language": "Go",
-            "last_commit": "2026-07-31T04:40:44Z",
+            "last_commit": "2026-08-25T10:16:40Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5601
+            "stars": 5602
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-12T20:56:37Z",
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3068
+            "stars": 3069
           }
         },
         {
@@ -744,10 +744,10 @@
             "archived": false,
             "id": 62921553,
             "language": "Go",
-            "last_commit": "2026-08-24T21:56:54Z",
+            "last_commit": "2026-08-25T17:39:11Z",
             "owner": "rook",
             "repo": "rook",
-            "stars": 13612
+            "stars": 13614
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-08-24T09:53:57Z",
             "owner": "projectcontour",
             "repo": "contour",
-            "stars": 3945
+            "stars": 3944
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44033
+            "stars": 44035
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-08-24T21:56:19Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4519
+            "stars": 4518
           }
         }
       ],
@@ -921,7 +921,7 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15829
+            "stars": 15831
           }
         }
       ],
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:45.296Z",
+    "last_updated": "2026-08-25T17:46:31.098Z",
     "original_repository": "realvz/awesome-eks",
     "original_repository_id": 263441553,
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
