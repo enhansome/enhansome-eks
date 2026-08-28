@@ -12,7 +12,7 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T16:15:28Z",
+            "last_commit": "2026-08-27T19:30:58Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
             "stars": 4851
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-25T08:31:51Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34448
+            "stars": 34454
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-05-24T12:10:07Z",
             "owner": "jonmosco",
             "repo": "kube-ps1",
-            "stars": 3806
+            "stars": 3807
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-27T07:18:40Z",
+            "last_commit": "2026-08-27T14:45:33Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8076
+            "stars": 8079
           }
         },
         {
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-27T04:26:53Z",
+            "last_commit": "2026-08-27T22:03:29Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4268
@@ -360,7 +360,7 @@
             "last_commit": "2026-06-04T18:11:52Z",
             "owner": "docker",
             "repo": "docker-bench-security",
-            "stars": 9693
+            "stars": 9695
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-08-21T18:48:27Z",
             "owner": "Shopify",
             "repo": "kubeaudit",
-            "stars": 1936
+            "stars": 1937
           }
         },
         {
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 359419233,
             "language": "Go",
-            "last_commit": "2026-08-27T10:30:43Z",
+            "last_commit": "2026-08-27T11:55:22Z",
             "owner": "kubeshark",
             "repo": "kubeshark",
             "stars": 12060
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-23T19:07:25Z",
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
-            "stars": 6186
+            "stars": 6187
           }
         },
         {
@@ -504,10 +504,10 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:43Z",
+            "last_commit": "2026-08-28T01:08:05Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
+            "stars": 129
           }
         }
       ],
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 149165150,
             "language": "Go",
-            "last_commit": "2026-08-27T09:46:16Z",
+            "last_commit": "2026-08-27T21:35:11Z",
             "owner": "pulumi",
             "repo": "kubespy",
             "stars": 3078
@@ -561,10 +561,10 @@
             "archived": false,
             "id": 21436816,
             "language": "Java",
-            "last_commit": "2026-08-25T20:22:44Z",
+            "last_commit": "2026-08-27T17:50:42Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
-            "stars": 9777
+            "stars": 9778
           }
         },
         {
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 183510345,
             "language": "Go",
-            "last_commit": "2026-08-26T14:35:24Z",
+            "last_commit": "2026-08-27T14:23:27Z",
             "owner": "FairwindsOps",
             "repo": "goldilocks",
             "stars": 3321
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-12T20:56:37Z",
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3071
+            "stars": 3072
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2023-11-10T18:28:39Z",
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1980
+            "stars": 1981
           }
         },
         {
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 62921553,
             "language": "Go",
-            "last_commit": "2026-08-26T16:14:13Z",
+            "last_commit": "2026-08-27T18:58:06Z",
             "owner": "rook",
             "repo": "rook",
             "stars": 13616
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 139728360,
             "language": "Go",
-            "last_commit": "2026-08-26T19:37:50Z",
+            "last_commit": "2026-08-27T20:18:03Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-ebs-csi-driver",
             "stars": 1135
@@ -813,7 +813,7 @@
             "last_commit": "2026-08-27T00:06:29Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-load-balancer-controller",
-            "stars": 4321
+            "stars": 4320
           }
         },
         {
@@ -825,7 +825,7 @@
             "archived": false,
             "id": 108462822,
             "language": "HTML",
-            "last_commit": "2026-08-26T05:14:45Z",
+            "last_commit": "2026-08-27T16:23:33Z",
             "owner": "projectcontour",
             "repo": "contour",
             "stars": 3945
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 885037479,
             "language": "Go",
-            "last_commit": "2026-08-26T20:09:35Z",
+            "last_commit": "2026-08-27T19:04:01Z",
             "owner": "solo-io",
             "repo": "gloo",
             "stars": 170
@@ -864,7 +864,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44048
+            "stars": 44050
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15833
+            "stars": 15835
           }
         }
       ],
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:52.871Z",
+    "last_updated": "2026-08-28T01:29:49.286Z",
     "original_repository_info": {
       "archived": false,
       "id": 263441553,
