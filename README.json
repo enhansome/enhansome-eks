@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Define Kubernetes native apps and abstractions using object-oriented programming",
+            "homepage": "https://cdk8s.io",
             "id": 105809298,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:45:25Z",
+            "open_issues": 73,
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4852
+            "stars": 4852,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for testing Kubernetes on AWS",
+            "homepage": null,
             "id": 152326454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T00:04:48Z",
+            "open_issues": 11,
             "owner": "aws",
             "repo": "aws-k8s-tester",
-            "stars": 184
+            "stars": 184,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to extend the capabilities of an EKS cluster",
+            "homepage": null,
             "id": 179455208,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-11T12:05:10Z",
+            "open_issues": 0,
             "owner": "mreferre",
             "repo": "ekstender",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -58,12 +73,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy VMware Octant on a EKS Cluster using Pulumi",
+            "homepage": null,
             "id": 203534552,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-08-21T22:12:39Z",
+            "open_issues": 0,
             "owner": "metral",
             "repo": "octumi",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "kubernetes",
+              "pulumi",
+              "typescript",
+              "vmware"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -80,12 +105,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gracefully handle EC2 instance shutdown within Kubernetes",
+            "homepage": "https://aws.amazon.com/ec2",
             "id": 216631734,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T22:42:37Z",
+            "open_issues": 12,
             "owner": "aws",
             "repo": "aws-node-termination-handler",
-            "stars": 1762
+            "stars": 1762,
+            "topics": [
+              "aws-ec2",
+              "eks",
+              "golang",
+              "kubernetes",
+              "maintenance-events",
+              "spot-instances"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -96,12 +133,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.",
+            "homepage": null,
             "id": 182057444,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-23T12:37:32Z",
+            "open_issues": 28,
             "owner": "hellofresh",
             "repo": "eks-rolling-update",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "open-source",
+              "wiz-reliability-platform-cloud-runtime"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -112,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gracefully drain Kubernetes pods from EKS worker nodes during autoscaling scale-in events.",
+            "homepage": null,
             "id": 179731165,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-21T13:04:06Z",
+            "open_issues": 5,
             "owner": "aws-samples",
             "repo": "amazon-k8s-node-drainer",
-            "stars": 197
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -134,12 +184,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+            "homepage": "https://k9scli.io",
             "id": 167596393,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:35:47Z",
+            "open_issues": 96,
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34459
+            "stars": 34460,
+            "topics": [
+              "go",
+              "golang",
+              "k8s",
+              "k8s-cluster",
+              "k9s",
+              "kubernetes",
+              "kubernetes-cli",
+              "kubernetes-clusters"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -150,12 +214,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faster way to switch between clusters and namespaces in kubectl",
+            "homepage": "https://kubectx.dev",
             "id": 86733463,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-02T01:42:33Z",
+            "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19964
+            "stars": 19964,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-clusters"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -166,12 +240,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes prompt info for bash, fish, and zsh",
+            "homepage": null,
             "id": 112216548,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-24T12:10:07Z",
+            "open_issues": 5,
             "owner": "jonmosco",
             "repo": "kube-ps1",
-            "stars": 3807
+            "stars": 3807,
+            "topics": [
+              "bash",
+              "containers",
+              "kubectl",
+              "kubernetes",
+              "kubernetes-helper",
+              "prompts",
+              "sre",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -182,12 +270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)",
+            "homepage": null,
             "id": 229827299,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T01:23:56Z",
+            "open_issues": 16,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3420
+            "stars": 3420,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -198,12 +295,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A hybrid command-line/UI development experience for cloud-native development",
+            "homepage": null,
             "id": 159242360,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-12T22:06:01Z",
+            "open_issues": 6,
             "owner": "kubernetes-retired",
             "repo": "kui",
-            "stars": 2895
+            "stars": 2895,
+            "topics": [
+              "cli",
+              "dashboard",
+              "electron",
+              "kubectl",
+              "kubernetes",
+              "plugin",
+              "ui",
+              "visualization",
+              "visualizations"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -214,12 +326,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is no longer maintained, please checkout https://github.com/JamesTGrant/kubectl-debug.",
+            "homepage": null,
             "id": 162127381,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-19T02:52:57Z",
+            "open_issues": 62,
             "owner": "aylei",
             "repo": "kubectl-debug",
-            "stars": 2302
+            "stars": 2302,
+            "topics": [
+              "debug",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "troubleshooting"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -230,12 +353,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).",
+            "homepage": null,
             "id": 117155340,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-27T06:00:21Z",
+            "open_issues": 16,
             "owner": "jordanwilson230",
             "repo": "kubectl-plugins",
-            "stars": 637
+            "stars": 637,
+            "topics": [
+              "automated-deployment",
+              "ci-cd",
+              "context-switching",
+              "deployment",
+              "devops",
+              "eks",
+              "exec",
+              "gke",
+              "google-cloud",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "namespace",
+              "namespaces",
+              "plugins",
+              "pod",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -252,12 +398,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Policy as Code",
+            "homepage": "https://kyverno.io",
             "id": 169108858,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:34:35Z",
+            "open_issues": 649,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8083
+            "stars": 8083,
+            "topics": [
+              "compliance",
+              "governance",
+              "kubernetes",
+              "policy-as-code",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -268,12 +425,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hunt for security weaknesses in Kubernetes clusters",
+            "homepage": null,
             "id": 141447532,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-19T12:30:55Z",
+            "open_issues": 82,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5081
+            "stars": 5081,
+            "topics": [
+              "hacktoberfest",
+              "kubernetes-clusters",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -284,12 +450,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐊 Policy Controller for Kubernetes",
+            "homepage": "https://open-policy-agent.github.io/gatekeeper/",
             "id": 154894457,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:53:04Z",
+            "open_issues": 187,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4269
+            "stars": 4269,
+            "topics": [
+              "admission",
+              "cncf",
+              "gatekeeper",
+              "hacktoberfest",
+              "kubernetes",
+              "mutation",
+              "opa",
+              "policy",
+              "policy-engine",
+              "security",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -300,12 +483,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom & better AppArmor profile generator for Docker containers.",
+            "homepage": null,
             "id": 43922256,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-09-17T20:10:45Z",
+            "open_issues": 4,
             "owner": "genuinetools",
             "repo": "bane",
-            "stars": 1229
+            "stars": 1229,
+            "topics": [
+              "apparmor",
+              "apparmor-profile",
+              "cli",
+              "containers",
+              "docker",
+              "linux",
+              "opencontainers",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -316,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to manage Amazon EKS users",
+            "homepage": null,
             "id": 157234965,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-30T13:04:50Z",
+            "open_issues": 1,
             "owner": "prabhatsharma",
             "repo": "eksuser",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -338,12 +540,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark",
+            "homepage": null,
             "id": 137678747,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-02T03:16:37Z",
+            "open_issues": 67,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3473
+            "stars": 3473,
+            "topics": [
+              "debugging",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "sniffing",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -354,12 +568,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+            "homepage": null,
             "id": 107597148,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:08:02Z",
+            "open_issues": 37,
             "owner": "aws",
             "repo": "amazon-vpc-cni-k8s",
-            "stars": 2453
+            "stars": 2453,
+            "topics": [
+              "cni-plugin",
+              "kubernetes",
+              "pod-networking"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -376,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+            "homepage": null,
             "id": 35394510,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-04T18:11:52Z",
+            "open_issues": 29,
             "owner": "docker",
             "repo": "docker-bench-security",
-            "stars": 9695
+            "stars": 9695,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -392,12 +620,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+            "homepage": null,
             "id": 94779471,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:32:49Z",
+            "open_issues": 96,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8160
+            "stars": 8160,
+            "topics": [
+              "cis-benchmark",
+              "cis-kubernetes-benchmark",
+              "cis-security",
+              "hacktoberfest",
+              "kube-bench",
+              "kubernetes",
+              "kubernetes-security",
+              "openshift"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -408,12 +650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An actuary is a business professional who analyzes the financial consequences of risk. ",
+            "homepage": null,
             "id": 51559459,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-09-15T17:12:16Z",
+            "open_issues": 6,
             "owner": "diogomonica",
             "repo": "actuary",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -430,12 +677,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "kubeaudit helps you audit your Kubernetes clusters against common security controls",
+            "homepage": null,
             "id": 103579225,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-08-21T18:48:27Z",
+            "open_issues": 46,
             "owner": "Shopify",
             "repo": "kubeaudit",
-            "stars": 1937
+            "stars": 1937,
+            "topics": [
+              "audit",
+              "computers",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -446,12 +702,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.",
+            "homepage": "https://darkbit.io",
             "id": 250376894,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2021-09-16T13:46:12Z",
+            "open_issues": 1,
             "owner": "darkbitio",
             "repo": "mkit",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "aks",
+              "aws",
+              "azure",
+              "eks",
+              "gcp",
+              "gke",
+              "k8s",
+              "kubernetes",
+              "kubernetes-security"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -462,12 +733,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alcide Kubernetes Audit Log Analyzer - Alcide kAudit",
+            "homepage": "https://www.alcide.io",
             "id": 248258164,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-07-08T12:32:41Z",
+            "open_issues": 2,
             "owner": "alcideio",
             "repo": "kaudit",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "alcide-kaudit",
+              "audit-log",
+              "forensic-analysis",
+              "forensics",
+              "kubernetes",
+              "security",
+              "security-tools",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -484,12 +769,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.",
+            "homepage": "https://kubeshark.com",
             "id": 359419233,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:55:22Z",
+            "open_issues": 149,
             "owner": "kubeshark",
             "repo": "kubeshark",
-            "stars": 12061
+            "stars": 12061,
+            "topics": [
+              "cloud-native",
+              "devops",
+              "docker",
+              "ebpf",
+              "golang",
+              "grpc",
+              "incident-response",
+              "kubernetes",
+              "mcp",
+              "network-analysis",
+              "network-engineering",
+              "network-observability",
+              "network-security",
+              "observability",
+              "pcap",
+              "rest",
+              "root-cause-analysis",
+              "sniffer",
+              "sre",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -500,12 +811,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add-on agent to generate and expose cluster-level metrics.",
+            "homepage": "https://kubernetes.io/docs/concepts/cluster-administration/kube-state-metrics/",
             "id": 58184885,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T19:07:25Z",
+            "open_issues": 107,
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
-            "stars": 6187
+            "stars": 6187,
+            "topics": [
+              "kubernetes",
+              "kubernetes-exporter",
+              "kubernetes-monitoring",
+              "metrics",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "prometheus-exporter"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -516,12 +841,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alert if an image used in Kubernetes cannot be pulled from container registry",
+            "homepage": null,
             "id": 250501832,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T13:23:13Z",
+            "open_issues": 29,
             "owner": "deckhouse",
             "repo": "k8s-image-availability-exporter",
-            "stars": 255
+            "stars": 255,
+            "topics": [
+              "container-registry",
+              "kubernetes",
+              "monitoring",
+              "prometheus-exporter"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -532,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:10:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:44:54Z",
+            "open_issues": 14,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -554,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for observing Kubernetes resources in real time, powered by Pulumi.",
+            "homepage": "https://pulumi.com/",
             "id": 149165150,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:03:33Z",
+            "open_issues": 18,
             "owner": "pulumi",
             "repo": "kubespy",
-            "stars": 3078
+            "stars": 3078,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -570,12 +915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes History Visualization",
+            "homepage": null,
             "id": 207928913,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-17T16:38:56Z",
+            "open_issues": 61,
             "owner": "salesforce",
             "repo": "sloop",
-            "stars": 1583
+            "stars": 1583,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -592,12 +942,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",
+            "homepage": "http://www.spinnaker.io/",
             "id": 21436816,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:57:59Z",
+            "open_issues": 102,
             "owner": "spinnaker",
             "repo": "spinnaker",
-            "stars": 9779
+            "stars": 9779,
+            "topics": [
+              "continuous-delivery",
+              "continuous-deployment",
+              "spinnaker"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -608,12 +967,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Successor: https://github.com/fluxcd/flux2",
+            "homepage": "https://fluxcd.io",
             "id": 62799996,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-01T15:16:50Z",
+            "open_issues": 0,
             "owner": "fluxcd",
             "repo": "flux",
-            "stars": 6855
+            "stars": 6855,
+            "topics": [
+              "gitops",
+              "kubernetes",
+              "legacy"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -630,12 +998,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get your resource requests \"Just Right\"",
+            "homepage": "https://fairwinds.com",
             "id": 183510345,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:22:18Z",
+            "open_issues": 14,
             "owner": "FairwindsOps",
             "repo": "goldilocks",
-            "stars": 3323
+            "stars": 3324,
+            "topics": [
+              "fairwinds-official",
+              "kubernetes",
+              "reporting",
+              "resources",
+              "verticalpodautoscaler"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -646,12 +1025,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Escalator is a batch or job optimized horizontal autoscaler for Kubernetes",
+            "homepage": null,
             "id": 118404024,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-06T23:46:26Z",
+            "open_issues": 18,
             "owner": "atlassian",
             "repo": "escalator",
-            "stars": 686
+            "stars": 686,
+            "topics": [
+              "asg",
+              "auto-scaling-group",
+              "autoscaler",
+              "autoscaling",
+              "aws",
+              "batch",
+              "cluster",
+              "default-autoscaler",
+              "drain",
+              "golang",
+              "kubernetes",
+              "scale",
+              "scaling",
+              "workload",
+              "workloads"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -662,12 +1062,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "General purpose metrics adapter for Kubernetes HPA metrics",
+            "homepage": null,
             "id": 152067384,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T15:55:25Z",
+            "open_issues": 12,
             "owner": "zalando-incubator",
             "repo": "kube-metrics-adapter",
-            "stars": 544
+            "stars": 544,
+            "topics": [
+              "autoscaling",
+              "custom",
+              "external",
+              "horizontal",
+              "hpa",
+              "kubernetes",
+              "metrics",
+              "monitoring",
+              "pod",
+              "prometheus",
+              "zalando",
+              "zmon"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -678,12 +1096,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool providing memory & CPU recommendations for containerized apps",
+            "homepage": "https://mhausenblas.info/right-size-guide/",
             "id": 238920490,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-26T11:03:30Z",
+            "open_issues": 1,
             "owner": "mhausenblas",
             "repo": "right-size-guide",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "aws-ecs",
+              "aws-eks",
+              "containers",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -700,12 +1128,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chaos Engineering Platform for Kubernetes.",
+            "homepage": "https://chaos-mesh.org",
             "id": 206213815,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T03:36:14Z",
+            "open_issues": 550,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7859
+            "stars": 7859,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "chaos-experiments",
+              "chaos-mesh",
+              "chaos-testing",
+              "cloud-native",
+              "cncf",
+              "fault-injection",
+              "golang",
+              "kubernetes",
+              "microservices",
+              "operator",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -716,12 +1163,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
+            "homepage": "https://litmuschaos.io",
             "id": 85039965,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T10:16:40Z",
+            "open_issues": 398,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5603
+            "stars": 5603,
+            "topics": [
+              "chaos-engineering",
+              "chaos-experiments",
+              "chaos-testing",
+              "chaoshub",
+              "cloud-native",
+              "cncf",
+              "devops",
+              "fault-injection",
+              "fault-simulation",
+              "golang",
+              "google-summer-of-code",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "lfx",
+              "litmuschaos",
+              "operator-sdk",
+              "reliability-engineering",
+              "resilience-testing",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -732,12 +1205,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of Netflix's Chaos Monkey for Kubernetes clusters",
+            "homepage": null,
             "id": 75889576,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T20:56:37Z",
+            "open_issues": 25,
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3072
+            "stars": 3072,
+            "topics": [
+              "chaos-monkey",
+              "go",
+              "kubernetes",
+              "netflix-chaos-monkey"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -748,12 +1231,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful testing tool for Kubernetes clusters.",
+            "homepage": null,
             "id": 113219762,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-10T18:28:39Z",
+            "open_issues": 55,
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1981
+            "stars": 1981,
+            "topics": [
+              "chaos-engineering",
+              "hacktoberfest",
+              "kubernetes",
+              "openstack",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -764,12 +1258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chaoskube periodically kills random pods in your Kubernetes cluster.",
+            "homepage": null,
             "id": 72786190,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-01T07:02:34Z",
+            "open_issues": 34,
             "owner": "linki",
             "repo": "chaoskube",
-            "stars": 1934
+            "stars": 1934,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "chaos-monkey",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -786,12 +1290,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Storage Orchestration for Kubernetes",
+            "homepage": "https://rook.io",
             "id": 62921553,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:58:06Z",
+            "open_issues": 128,
             "owner": "rook",
             "repo": "rook",
-            "stars": 13618
+            "stars": 13618,
+            "topics": [
+              "ceph",
+              "cloud-native",
+              "cncf",
+              "docker",
+              "etcd",
+              "kubernetes",
+              "storage",
+              "storage-cluster"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -802,12 +1320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSI driver for Amazon EBS https://aws.amazon.com/ebs/",
+            "homepage": null,
             "id": 139728360,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:16:08Z",
+            "open_issues": 28,
             "owner": "kubernetes-sigs",
             "repo": "aws-ebs-csi-driver",
-            "stars": 1135
+            "stars": 1135,
+            "topics": [
+              "aws",
+              "csi",
+              "ebs",
+              "k8s-sig-aws",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -818,12 +1347,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSI Driver for Amazon EFS https://aws.amazon.com/efs/",
+            "homepage": null,
             "id": 162647455,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:42:04Z",
+            "open_issues": 12,
             "owner": "kubernetes-sigs",
             "repo": "aws-efs-csi-driver",
-            "stars": 804
+            "stars": 804,
+            "topics": [
+              "aws",
+              "csi",
+              "efs",
+              "k8s-sig-aws",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -834,12 +1374,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSI Driver of Amazon FSx for Lustre https://aws.amazon.com/fsx/lustre/",
+            "homepage": null,
             "id": 161854186,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T20:14:33Z",
+            "open_issues": 12,
             "owner": "kubernetes-sigs",
             "repo": "aws-fsx-csi-driver",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "aws",
+              "csi",
+              "fsx",
+              "k8s-sig-aws",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -856,12 +1407,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kubernetes controller for Elastic Load Balancers",
+            "homepage": "https://kubernetes-sigs.github.io/aws-load-balancer-controller/",
             "id": 84610043,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:52:05Z",
+            "open_issues": 127,
             "owner": "kubernetes-sigs",
             "repo": "aws-load-balancer-controller",
-            "stars": 4320
+            "stars": 4320,
+            "topics": [
+              "aws",
+              "gateway-api",
+              "ingress",
+              "ingress-resource",
+              "k8s-sig-aws",
+              "kubernetes",
+              "kubernetes-ingress-controller"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -872,12 +1436,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contour is a Kubernetes ingress controller using Envoy proxy.",
+            "homepage": "https://projectcontour.io",
             "id": 108462822,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:34:54Z",
+            "open_issues": 121,
             "owner": "projectcontour",
             "repo": "contour",
-            "stars": 3945
+            "stars": 3945,
+            "topics": [
+              "cncf",
+              "contour",
+              "envoy",
+              "gateway-api",
+              "hacktoberfest",
+              "http-proxy",
+              "ingress-controller",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -888,12 +1466,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cloud-Native API Gateway and AI Gateway",
+            "homepage": "https://docs.solo.io/",
             "id": 885037479,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:04:01Z",
+            "open_issues": 1869,
             "owner": "solo-io",
             "repo": "gloo",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "sec"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -910,12 +1495,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦍 The API and AI Gateway",
+            "homepage": "https://konghq.com/install/",
             "id": 26783295,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T14:44:43Z",
+            "open_issues": 191,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44055
+            "stars": 44055,
+            "topics": [
+              "ai",
+              "ai-gateway",
+              "api-gateway",
+              "api-management",
+              "apis",
+              "artificial-intelligence",
+              "cloud-native",
+              "devops",
+              "kubernetes",
+              "kubernetes-ingress",
+              "kubernetes-ingress-controller",
+              "llm-gateway",
+              "llm-ops",
+              "mcp",
+              "mcp-gateway",
+              "microservice",
+              "microservices",
+              "openai-proxy",
+              "reverse-proxy",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -926,12 +1537,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy",
+            "homepage": "https://emissary-ingress.dev/",
             "id": 86740149,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T21:56:19Z",
+            "open_issues": 440,
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4520
+            "stars": 4520,
+            "topics": [
+              "ambassador",
+              "api-gateway",
+              "api-management",
+              "cloud-native",
+              "docker",
+              "envoy",
+              "envoy-proxy",
+              "gateway-api",
+              "kubernetes",
+              "kubernetes-annotations",
+              "kubernetes-ingress",
+              "microservice"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -948,12 +1577,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System of Record for Kubernetes cost accounting: per-namespace CPU, memory and GPU usage, with the 30% non-allocatable overhead made visible. Connects to AI assistants via MCP (Claude, Gemini, Mistral, Cursor) for plain-language analysis. Formerly Kube-Opex-Analytics.",
+            "homepage": "https://kubeledger.io/",
             "id": 165441156,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T04:22:30Z",
+            "open_issues": 9,
             "owner": "realopslabs",
             "repo": "kubeledger",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "accounting",
+              "cost-optimization",
+              "finops",
+              "gpu",
+              "greenops",
+              "kubernetes",
+              "monitoring",
+              "observability",
+              "rrdtool"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -970,12 +1614,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Toolkit for Kubernetes",
+            "homepage": "https://www.kubeflow.org/",
             "id": 112647343,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T18:25:34Z",
+            "open_issues": 0,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15840
+            "stars": 15840,
+            "topics": [
+              "google-kubernetes-engine",
+              "jupyter",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "minikube",
+              "ml",
+              "notebook",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -992,12 +1651,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). ",
+            "homepage": "https://aws.amazon.com/about-aws/whats-new/containers/",
             "id": 159005377,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-25T18:13:16Z",
+            "open_issues": 1589,
             "owner": "aws",
             "repo": "containers-roadmap",
-            "stars": 5356
+            "stars": 5356,
+            "topics": [
+              "aws",
+              "containers",
+              "ecr",
+              "ecs",
+              "eks",
+              "fargate",
+              "kubernetes",
+              "roadmap"
+            ]
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         },
@@ -1008,12 +1681,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A list of ideas for content that AWS should develop about running containers on AWS.",
+            "homepage": null,
             "id": 169811805,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-09-08T20:34:38Z",
+            "open_issues": 28,
             "owner": "awslabs",
             "repo": "container-content-ideas-for-aws",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
         }
@@ -1022,15 +1700,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:18.776Z",
+    "last_updated": "2026-08-29T04:47:29.476Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome tools for Amazon EKS 🌊",
+      "homepage": "https://realvz.github.io/awesome-eks/",
       "id": 263441553,
       "language": "HTML",
+      "license": "Apache-2.0",
       "last_commit": "2026-04-26T01:57:01Z",
+      "open_issues": 9,
       "owner": "realvz",
       "repo": "awesome-eks",
-      "stars": 340
+      "stars": 340,
+      "topics": [
+        "amazon-eks",
+        "awesome",
+        "awesome-list",
+        "aws",
+        "containers",
+        "eks",
+        "fargate",
+        "kubernetes"
+      ]
     },
     "original_repository_sha": "4c9649a91cf4bb9b4a7d2443c1e0b78790ce7bf7",
     "enhanced_repository": "enhansome/enhansome-eks",

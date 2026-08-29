@@ -71,7 +71,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## CLI tools
 
-* [k9s](https://github.com/derailed/k9s) ⭐ 34,459 | 🐛 97 | 🌐 Go | 📅 2026-08-28 - Provides a terminal UI to interact with your Kubernetes clusters
+* [k9s](https://github.com/derailed/k9s) ⭐ 34,460 | 🐛 96 | 🌐 Go | 📅 2026-08-28 - Provides a terminal UI to interact with your Kubernetes clusters
 * [kubectx](https://github.com/ahmetb/kubectx) ⭐ 19,964 | 🐛 40 | 🌐 Go | 📅 2026-08-02 — Faster way to switch between clusters and namespaces in kubectl
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) ⭐ 3,807 | 🐛 5 | 🌐 Shell | 📅 2026-05-24 — Kubernetes prompt for bash and zsh.  Adds the current context and namespace to the prompt
 * [kubectl tree](https://github.com/ahmetb/kubectl-tree) ⭐ 3,420 | 🐛 16 | 🌐 Go | 📅 2026-08-24
@@ -87,7 +87,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Security
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,083 | 🐛 648 | 🌐 Go | 📅 2026-08-28
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,083 | 🐛 649 | 🌐 Go | 📅 2026-08-28
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) ⭐ 5,081 | 🐛 82 | 🌐 Python | 📅 2024-03-19
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,269 | 🐛 187 | 🌐 Go | 📅 2026-08-28
 * [Bane](https://github.com/genuinetools/bane) ⭐ 1,229 | 🐛 4 | 🌐 Go | 📅 2020-09-17 - Custom & better AppArmor profile generator for Docker containers.
@@ -136,7 +136,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Mizu](https://github.com/up9inc/mizu) ⭐ 12,061 | 🐛 149 | 🌐 Go | 📅 2026-08-27 - The API Traffic Viewer for Kubernetes (Think TCPDump and Wireshark re-invented for Kubernetes)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,187 | 🐛 107 | 🌐 Go | 📅 2026-08-23 — Add-on agent to generate and expose cluster-level metrics.
 * [k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) ⭐ 255 | 🐛 29 | 🌐 Go | 📅 2026-07-29 - Alerts if an image used in Kubernetes cannot be pulled from container registry
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 129 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-29 — Multi-cluster Kubernetes dashboard with real-time observability, AI-powered operations, and CNCF project integrations across EKS and other clusters
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 129 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-29 — Multi-cluster Kubernetes dashboard with real-time observability, AI-powered operations, and CNCF project integrations across EKS and other clusters
 * [Kubernetes Metrics Server](https://docs.aws.amazon.com/eks/latest/userguide/metrics-server.html) — Cluster-wide aggregator of resource usage data
 * [Prometheus + Grafana](https://eksworkshop.com/intermediate/240_monitoring/)
 * [CloudWatch Container Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights.html)
@@ -174,7 +174,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Pod scaling
 
-* [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/) ⭐ 3,323 | 🐛 14 | 🌐 Go | 📅 2026-08-28
+* [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/) ⭐ 3,324 | 🐛 14 | 🌐 Go | 📅 2026-08-28
 * [Escalator](https://github.com/atlassian/escalator) ⭐ 686 | 🐛 18 | 🌐 Go | 📅 2026-07-06 - A batch or job optimized horizontal autoscaler
 * [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) ⭐ 544 | 🐛 12 | 🌐 Go | 📅 2026-08-24
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) ⭐ 57 | 🐛 1 | 🌐 Go | 📅 2020-03-26 — A CLI tool providing memory & CPU recommendations for containerized apps
