@@ -12,11 +12,12 @@
             "archived": false,
             "id": 105809298,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:30:58Z",
+            "last_commit": "2026-08-28T19:45:25Z",
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4851
-          }
+            "stars": 4852
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "aws",
             "repo": "aws-k8s-tester",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mreferre",
             "repo": "ekstender",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "metral",
             "repo": "octumi",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Cluster management tools"
@@ -82,7 +86,8 @@
             "owner": "aws",
             "repo": "aws-node-termination-handler",
             "stars": 1762
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "hellofresh",
             "repo": "eks-rolling-update",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "aws-samples",
             "repo": "amazon-k8s-node-drainer",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Data plane management"
@@ -129,11 +136,12 @@
             "archived": false,
             "id": 167596393,
             "language": "Go",
-            "last_commit": "2026-08-25T08:31:51Z",
+            "last_commit": "2026-08-28T16:35:47Z",
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34454
-          }
+            "stars": 34459
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "ahmetb",
             "repo": "kubectx",
             "stars": 19964
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "jonmosco",
             "repo": "kube-ps1",
             "stars": 3807
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2026-08-24T01:23:56Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3419
-          }
+            "stars": 3420
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "kubernetes-retired",
             "repo": "kui",
             "stars": 2895
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "aylei",
             "repo": "kubectl-debug",
             "stars": 2302
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "jordanwilson230",
             "repo": "kubectl-plugins",
             "stars": 637
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "CLI tools"
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-27T14:45:33Z",
+            "last_commit": "2026-08-28T06:34:35Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8079
-          }
+            "stars": 8083
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -258,8 +273,9 @@
             "last_commit": "2024-03-19T12:30:55Z",
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5080
-          }
+            "stars": 5081
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -270,11 +286,12 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-27T22:03:29Z",
+            "last_commit": "2026-08-28T21:53:04Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4268
-          }
+            "stars": 4269
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -288,8 +305,9 @@
             "last_commit": "2020-09-17T20:10:45Z",
             "owner": "genuinetools",
             "repo": "bane",
-            "stars": 1230
-          }
+            "stars": 1229
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "prabhatsharma",
             "repo": "eksuser",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Security"
@@ -325,7 +344,8 @@
             "owner": "eldadru",
             "repo": "ksniff",
             "stars": 3473
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -336,11 +356,12 @@
             "archived": false,
             "id": 107597148,
             "language": "Go",
-            "last_commit": "2026-08-27T10:24:56Z",
+            "last_commit": "2026-08-28T17:08:02Z",
             "owner": "aws",
             "repo": "amazon-vpc-cni-k8s",
             "stars": 2453
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Networking"
@@ -361,7 +382,8 @@
             "owner": "docker",
             "repo": "docker-bench-security",
             "stars": 9695
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -375,8 +397,9 @@
             "last_commit": "2026-08-24T19:32:49Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8157
-          }
+            "stars": 8160
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "diogomonica",
             "repo": "actuary",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Compliance"
@@ -412,7 +436,8 @@
             "owner": "Shopify",
             "repo": "kubeaudit",
             "stars": 1937
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -427,7 +452,8 @@
             "owner": "darkbitio",
             "repo": "mkit",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -442,7 +468,8 @@
             "owner": "alcideio",
             "repo": "kaudit",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Audit"
@@ -462,8 +489,9 @@
             "last_commit": "2026-08-27T11:55:22Z",
             "owner": "kubeshark",
             "repo": "kubeshark",
-            "stars": 12060
-          }
+            "stars": 12061
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -478,7 +506,8 @@
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
             "stars": 6187
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -493,7 +522,8 @@
             "owner": "deckhouse",
             "repo": "k8s-image-availability-exporter",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -504,11 +534,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:08:05Z",
+            "last_commit": "2026-08-29T00:10:19Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Monitoring"
@@ -525,11 +556,12 @@
             "archived": false,
             "id": 149165150,
             "language": "Go",
-            "last_commit": "2026-08-27T21:35:11Z",
+            "last_commit": "2026-08-28T21:03:33Z",
             "owner": "pulumi",
             "repo": "kubespy",
             "stars": 3078
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -544,7 +576,8 @@
             "owner": "salesforce",
             "repo": "sloop",
             "stars": 1583
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Troubleshooting"
@@ -561,11 +594,12 @@
             "archived": false,
             "id": 21436816,
             "language": "Java",
-            "last_commit": "2026-08-27T17:50:42Z",
+            "last_commit": "2026-08-28T15:57:59Z",
             "owner": "spinnaker",
             "repo": "spinnaker",
-            "stars": 9778
-          }
+            "stars": 9779
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -579,8 +613,9 @@
             "last_commit": "2022-11-01T15:16:50Z",
             "owner": "fluxcd",
             "repo": "flux",
-            "stars": 6854
-          }
+            "stars": 6855
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "CI and CD tools"
@@ -597,11 +632,12 @@
             "archived": false,
             "id": 183510345,
             "language": "Go",
-            "last_commit": "2026-08-27T14:23:27Z",
+            "last_commit": "2026-08-28T19:22:18Z",
             "owner": "FairwindsOps",
             "repo": "goldilocks",
-            "stars": 3321
-          }
+            "stars": 3323
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -616,7 +652,8 @@
             "owner": "atlassian",
             "repo": "escalator",
             "stars": 686
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -630,8 +667,9 @@
             "last_commit": "2026-08-24T15:55:25Z",
             "owner": "zalando-incubator",
             "repo": "kube-metrics-adapter",
-            "stars": 543
-          }
+            "stars": 544
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -646,7 +684,8 @@
             "owner": "mhausenblas",
             "repo": "right-size-guide",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Pod scaling"
@@ -666,8 +705,9 @@
             "last_commit": "2026-08-27T03:36:14Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7858
-          }
+            "stars": 7859
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -682,7 +722,8 @@
             "owner": "litmuschaos",
             "repo": "litmus",
             "stars": 5603
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -697,7 +738,8 @@
             "owner": "asobti",
             "repo": "kube-monkey",
             "stars": 3072
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -712,7 +754,8 @@
             "owner": "powerfulseal",
             "repo": "powerfulseal",
             "stars": 1981
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -727,7 +770,8 @@
             "owner": "linki",
             "repo": "chaoskube",
             "stars": 1934
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Chaos testing"
@@ -747,8 +791,9 @@
             "last_commit": "2026-08-27T18:58:06Z",
             "owner": "rook",
             "repo": "rook",
-            "stars": 13616
-          }
+            "stars": 13618
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -759,11 +804,12 @@
             "archived": false,
             "id": 139728360,
             "language": "Go",
-            "last_commit": "2026-08-27T20:18:03Z",
+            "last_commit": "2026-08-28T13:16:08Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-ebs-csi-driver",
             "stars": 1135
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -774,11 +820,12 @@
             "archived": false,
             "id": 162647455,
             "language": "Go",
-            "last_commit": "2026-08-26T15:21:41Z",
+            "last_commit": "2026-08-28T20:42:04Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-efs-csi-driver",
             "stars": 804
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -793,7 +840,8 @@
             "owner": "kubernetes-sigs",
             "repo": "aws-fsx-csi-driver",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Storage"
@@ -810,11 +858,12 @@
             "archived": false,
             "id": 84610043,
             "language": "Go",
-            "last_commit": "2026-08-27T00:06:29Z",
+            "last_commit": "2026-08-28T20:52:05Z",
             "owner": "kubernetes-sigs",
             "repo": "aws-load-balancer-controller",
             "stars": 4320
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -825,11 +874,12 @@
             "archived": false,
             "id": 108462822,
             "language": "HTML",
-            "last_commit": "2026-08-27T16:23:33Z",
+            "last_commit": "2026-08-28T15:34:54Z",
             "owner": "projectcontour",
             "repo": "contour",
             "stars": 3945
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -844,7 +894,8 @@
             "owner": "solo-io",
             "repo": "gloo",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Ingress"
@@ -864,8 +915,9 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44050
-          }
+            "stars": 44055
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -879,8 +931,9 @@
             "last_commit": "2026-08-24T21:56:19Z",
             "owner": "emissary-ingress",
             "repo": "emissary",
-            "stars": 4519
-          }
+            "stars": 4520
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "API gateways"
@@ -901,7 +954,8 @@
             "owner": "realopslabs",
             "repo": "kubeledger",
             "stars": 484
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Cost allocation"
@@ -921,8 +975,9 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15835
-          }
+            "stars": 15840
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Machine learning"
@@ -943,7 +998,8 @@
             "owner": "aws",
             "repo": "containers-roadmap",
             "stars": 5356
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         },
         {
           "node_type": "item",
@@ -958,14 +1014,15 @@
             "owner": "awslabs",
             "repo": "container-content-ideas-for-aws",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:58:18.776Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:29:49.286Z",
+    "last_updated": "2026-08-29T00:58:18.776Z",
     "original_repository_info": {
       "archived": false,
       "id": 263441553,
