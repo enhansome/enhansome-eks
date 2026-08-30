@@ -15,11 +15,11 @@
             "id": 105809298,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T15:10:59Z",
+            "last_commit": "2026-08-30T09:35:42Z",
             "open_issues": 73,
             "owner": "cdk8s-team",
             "repo": "cdk8s",
-            "stars": 4852,
+            "stars": 4853,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
@@ -190,10 +190,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T15:22:03Z",
-            "open_issues": 94,
+            "open_issues": 96,
             "owner": "derailed",
             "repo": "k9s",
-            "stars": 34461,
+            "stars": 34469,
             "topics": [
               "go",
               "golang",
@@ -223,7 +223,7 @@
             "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19966,
+            "stars": 19969,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -403,11 +403,11 @@
             "id": 169108858,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T06:34:35Z",
-            "open_issues": 654,
+            "last_commit": "2026-08-30T08:02:00Z",
+            "open_issues": 657,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8084,
+            "stars": 8087,
             "topics": [
               "compliance",
               "governance",
@@ -434,7 +434,7 @@
             "open_issues": 82,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5081,
+            "stars": 5082,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -456,10 +456,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:53:04Z",
-            "open_issues": 187,
+            "open_issues": 188,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4269,
+            "stars": 4270,
             "topics": [
               "admission",
               "cncf",
@@ -778,7 +778,7 @@
             "open_issues": 149,
             "owner": "kubeshark",
             "repo": "kubeshark",
-            "stars": 12061,
+            "stars": 12062,
             "topics": [
               "cloud-native",
               "devops",
@@ -820,7 +820,7 @@
             "open_issues": 109,
             "owner": "kubernetes",
             "repo": "kube-state-metrics",
-            "stars": 6187,
+            "stars": 6191,
             "topics": [
               "kubernetes",
               "kubernetes-exporter",
@@ -872,11 +872,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:43:55Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-30T19:40:59Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 131,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
@@ -903,7 +903,7 @@
             "open_issues": 18,
             "owner": "pulumi",
             "repo": "kubespy",
-            "stars": 3078,
+            "stars": 3079,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:18.776Z"
@@ -948,7 +948,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:57:59Z",
-            "open_issues": 101,
+            "open_issues": 103,
             "owner": "spinnaker",
             "repo": "spinnaker",
             "stars": 9780,
@@ -1007,7 +1007,7 @@
             "open_issues": 14,
             "owner": "FairwindsOps",
             "repo": "goldilocks",
-            "stars": 3330,
+            "stars": 3331,
             "topics": [
               "fairwinds-official",
               "kubernetes",
@@ -1137,7 +1137,7 @@
             "open_issues": 548,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7861,
+            "stars": 7862,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -1296,7 +1296,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:58:06Z",
-            "open_issues": 129,
+            "open_issues": 127,
             "owner": "rook",
             "repo": "rook",
             "stars": 13619,
@@ -1501,10 +1501,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T14:44:43Z",
-            "open_issues": 191,
+            "open_issues": 193,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44058,
+            "stars": 44059,
             "topics": [
               "ai",
               "ai-gateway",
@@ -1700,7 +1700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:45:18.612Z",
+    "last_updated": "2026-08-30T19:50:28.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools for Amazon EKS 🌊",
