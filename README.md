@@ -50,8 +50,8 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Cluster management tools
 
-* [cdk8s](https://github.com/awslabs/cdk8s) ⭐ 4,857 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-11 - Define Kubernetes native apps and abstractions using object-oriented programming
-* [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) ⭐ 185 | 🐛 13 | 🌐 Go | 📅 2026-10-11 - Implements [`k8s.io/test-infra/kubetest2`](https://github.com/kubernetes/test-infra/tree/master/kubetest2) ⭐ 4,026 | 🐛 133 | 🌐 Go | 📅 2026-10-10, creates/deletes testing EKS cluster with various add-ons.
+* [cdk8s](https://github.com/awslabs/cdk8s) ⭐ 4,858 | 🐛 73 | 🌐 JavaScript | 📅 2026-10-12 - Define Kubernetes native apps and abstractions using object-oriented programming
+* [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) ⭐ 185 | 🐛 13 | 🌐 Go | 📅 2026-10-11 - Implements [`k8s.io/test-infra/kubetest2`](https://github.com/kubernetes/test-infra/tree/master/kubetest2) ⭐ 4,026 | 🐛 133 | 🌐 Go | 📅 2026-10-12, creates/deletes testing EKS cluster with various add-ons.
 * [ekstender](https://github.com/mreferre/ekstender) ⭐ 67 | 🐛 0 | 🌐 Shell | 📅 2020-08-11 - tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.
 * [Octant](https://github.com/metral/octumi) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2019-08-21 - Deploy VMware Octant on a EKS Cluster using Pulumi
 * [eksctl](https://eksctl.io)
@@ -71,8 +71,8 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## CLI tools
 
-* [k9s](https://github.com/derailed/k9s) ⭐ 34,786 | 🐛 92 | 🌐 Go | 📅 2026-10-11 - Provides a terminal UI to interact with your Kubernetes clusters
-* [kubectx](https://github.com/ahmetb/kubectx) ⭐ 20,034 | 🐛 41 | 🌐 Go | 📅 2026-10-11 — Faster way to switch between clusters and namespaces in kubectl
+* [k9s](https://github.com/derailed/k9s) ⭐ 34,796 | 🐛 90 | 🌐 Go | 📅 2026-10-11 - Provides a terminal UI to interact with your Kubernetes clusters
+* [kubectx](https://github.com/ahmetb/kubectx) ⭐ 20,035 | 🐛 41 | 🌐 Go | 📅 2026-10-11 — Faster way to switch between clusters and namespaces in kubectl
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) ⭐ 3,812 | 🐛 3 | 🌐 Shell | 📅 2026-09-25 — Kubernetes prompt for bash and zsh.  Adds the current context and namespace to the prompt
 * [kubectl tree](https://github.com/ahmetb/kubectl-tree) ⭐ 3,443 | 🐛 17 | 🌐 Go | 📅 2026-09-28
 * [kui](https://github.com/IBM/kui/) ⚠️ Archived - A hybrid command-line/UI development experience for cloud-native development
@@ -83,13 +83,13 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Package managers
 
 * [Helm](https://docs.aws.amazon.com/eks/latest/userguide/helm.html) - The Kubernetes Package Manager
-* [Amazon EKS Helm chart repository](https://github.com/aws/eks-charts) ⭐ 1,312 | 🐛 226 | 🌐 Mustache | 📅 2026-10-05
+* [Amazon EKS Helm chart repository](https://github.com/aws/eks-charts) ⭐ 1,313 | 🐛 226 | 🌐 Mustache | 📅 2026-10-05
 
 ## Security
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,237 | 🐛 825 | 🌐 Go | 📅 2026-10-10
-* [kube-hunter](https://github.com/aquasecurity/kube-hunter) ⭐ 5,087 | 🐛 82 | 🌐 Python | 📅 2024-03-19
-* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,294 | 🐛 197 | 🌐 Go | 📅 2026-10-09
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,240 | 🐛 840 | 🌐 Go | 📅 2026-10-12
+* [kube-hunter](https://github.com/aquasecurity/kube-hunter) ⭐ 5,088 | 🐛 82 | 🌐 Python | 📅 2024-03-19
+* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,297 | 🐛 190 | 🌐 Go | 📅 2026-10-12
 * [Bane](https://github.com/genuinetools/bane) ⭐ 1,231 | 🐛 4 | 🌐 Go | 📅 2020-09-17 - Custom & better AppArmor profile generator for Docker containers.
 * [eksuser](https://github.com/prabhatsharma/eksuser/) ⭐ 35 | 🐛 1 | 🌐 Go | 📅 2019-06-30 - Utility to manage Amazon EKS users
 * [EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/)
@@ -102,7 +102,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Networking
 
 * [ksniff](https://github.com/eldadru/ksniff) ⭐ 3,477 | 🐛 68 | 🌐 Go | 📅 2024-08-02 - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
-* [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) ⭐ 2,459 | 🐛 54 | 🌐 Go | 📅 2026-10-09
+* [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) ⭐ 2,458 | 🐛 55 | 🌐 Go | 📅 2026-10-12
 * [CNI metrics helper](https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html)
 * [Calico network policy engine for Kubernetes](https://docs.aws.amazon.com/eks/latest/userguide/calico.html)
 * [Cluster VPC considerations](https://docs.aws.amazon.com/eks/latest/userguide/network_reqs.html)
@@ -110,7 +110,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Compliance
 
 * [docker-bench-security](https://github.com/docker/docker-bench-security) ⭐ 9,703 | 🐛 28 | 🌐 Shell | 📅 2026-06-04
-* [kube-bench](https://github.com/aquasecurity/kube-bench#running-in-an-eks-cluster) ⭐ 8,221 | 🐛 107 | 🌐 Go | 📅 2026-10-05
+* [kube-bench](https://github.com/aquasecurity/kube-bench#running-in-an-eks-cluster) ⭐ 8,223 | 🐛 107 | 🌐 Go | 📅 2026-10-05
 * [actuary](https://github.com/diogomonica/actuary) ⭐ 84 | 🐛 6 | 🌐 Go | 📅 2017-09-15
 * [AWS Inspector](https://aws.amazon.com/inspector/)
 * [Sysdig Secure](https://sysdig.com/products/kubernetes-security/)
@@ -133,10 +133,10 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Monitoring
 
-* [Mizu](https://github.com/up9inc/mizu) ⭐ 12,096 | 🐛 142 | 🌐 Go | 📅 2026-10-09 - The API Traffic Viewer for Kubernetes (Think TCPDump and Wireshark re-invented for Kubernetes)
-* [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,223 | 🐛 111 | 🌐 Go | 📅 2026-10-07 — Add-on agent to generate and expose cluster-level metrics.
+* [Mizu](https://github.com/up9inc/mizu) ⭐ 12,095 | 🐛 142 | 🌐 Go | 📅 2026-10-09 - The API Traffic Viewer for Kubernetes (Think TCPDump and Wireshark re-invented for Kubernetes)
+* [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,223 | 🐛 116 | 🌐 Go | 📅 2026-10-07 — Add-on agent to generate and expose cluster-level metrics.
 * [k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) ⭐ 257 | 🐛 29 | 🌐 Go | 📅 2026-07-29 - Alerts if an image used in Kubernetes cannot be pulled from container registry
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-11 — Multi-cluster Kubernetes dashboard with real-time observability, AI-powered operations, and CNCF project integrations across EKS and other clusters
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-12 — Multi-cluster Kubernetes dashboard with real-time observability, AI-powered operations, and CNCF project integrations across EKS and other clusters
 * [Kubernetes Metrics Server](https://docs.aws.amazon.com/eks/latest/userguide/metrics-server.html) — Cluster-wide aggregator of resource usage data
 * [Prometheus + Grafana](https://eksworkshop.com/intermediate/240_monitoring/)
 * [CloudWatch Container Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights.html)
@@ -144,8 +144,8 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Troubleshooting
 
-* [kubespy](https://github.com/pulumi/kubespy) ⭐ 3,084 | 🐛 14 | 🌐 Go | 📅 2026-10-09
-* [Sloop](https://github.com/salesforce/sloop) ⭐ 1,584 | 🐛 61 | 🌐 Go | 📅 2026-02-17
+* [kubespy](https://github.com/pulumi/kubespy) ⭐ 3,084 | 🐛 14 | 🌐 Go | 📅 2026-10-12
+* [Sloop](https://github.com/salesforce/sloop) ⭐ 1,585 | 🐛 62 | 🌐 Go | 📅 2026-02-17
 
 ## Logging
 
@@ -157,11 +157,11 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Tracing
 
 * [AWS X-Ray](https://aws.amazon.com/xray/)
-* [Jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,279 | 🐛 560 | 🌐 Go | 📅 2026-10-11
+* [Jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,285 | 🐛 557 | 🌐 Go | 📅 2026-10-11
 
 ## CI and CD tools
 
-* [Spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,803 | 🐛 92 | 🌐 Java | 📅 2026-10-09
+* [Spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,802 | 🐛 92 | 🌐 Java | 📅 2026-10-12
 * [Flux](https://github.com/fluxcd/flux) ⚠️ Archived - The GitOps Kubernetes operator
 * [Flagger](https://docs.flagger.app/install/flagger-install-on-eks-appmesh) - Progressive Delivery Operator for Kubernetes
 * Jenkins
@@ -174,41 +174,41 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Pod scaling
 
-* [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/) ⭐ 3,355 | 🐛 17 | 🌐 Go | 📅 2026-10-09
+* [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/) ⭐ 3,354 | 🐛 17 | 🌐 Go | 📅 2026-10-09
 * [Escalator](https://github.com/atlassian/escalator) ⭐ 688 | 🐛 18 | 🌐 Go | 📅 2026-09-11 - A batch or job optimized horizontal autoscaler
-* [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) ⭐ 541 | 🐛 12 | 🌐 Go | 📅 2026-10-08
+* [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) ⭐ 541 | 🐛 14 | 🌐 Go | 📅 2026-10-12
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) ⭐ 57 | 🐛 1 | 🌐 Go | 📅 2020-03-26 — A CLI tool providing memory & CPU recommendations for containerized apps
 * [Automatic right-sizing](https://spot.io/blog/kubernetes-automatic-rightsizing-with-dynamic-admission-controller/) — Using Kubernetes [dynamic admission controller](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/) to implement automatic right-sizing recommendations
 
 ## Chaos testing
 
-* [Chaos Mesh](https://github.com/pingcap/chaos-mesh) ⭐ 7,930 | 🐛 530 | 🌐 Go | 📅 2026-10-03
-* [LitmusChaos](https://github.com/litmuschaos/litmus) ⭐ 5,725 | 🐛 398 | 🌐 Go | 📅 2026-09-30
-* [kube-monkey](https://github.com/asobti/kube-monkey) ⭐ 3,082 | 🐛 5 | 🌐 Go | 📅 2026-09-20
+* [Chaos Mesh](https://github.com/pingcap/chaos-mesh) ⭐ 7,931 | 🐛 531 | 🌐 Go | 📅 2026-10-03
+* [LitmusChaos](https://github.com/litmuschaos/litmus) ⭐ 5,728 | 🐛 385 | 🌐 Go | 📅 2026-09-30
+* [kube-monkey](https://github.com/asobti/kube-monkey) ⭐ 3,083 | 🐛 5 | 🌐 Go | 📅 2026-09-20
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) ⭐ 1,985 | 🐛 55 | 🌐 Python | 📅 2023-11-10
 * [chaoskube](https://github.com/linki/chaoskube) ⭐ 1,938 | 🐛 36 | 🌐 Go | 📅 2026-10-08
 * [Gremlin](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-with-eks/)
 
 ## Storage
 
-* [Rook](https://github.com/rook/rook) ⭐ 13,674 | 🐛 133 | 🌐 Go | 📅 2026-10-09
-* [Amazon EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) ⭐ 1,134 | 🐛 28 | 🌐 Go | 📅 2026-10-09
-* [Amazon EFS CSI driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) ⭐ 805 | 🐛 16 | 🌐 Go | 📅 2026-10-06
+* [Rook](https://github.com/rook/rook) ⭐ 13,674 | 🐛 129 | 🌐 Go | 📅 2026-10-12
+* [Amazon EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) ⭐ 1,135 | 🐛 27 | 🌐 Go | 📅 2026-10-12
+* [Amazon EFS CSI driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) ⭐ 805 | 🐛 14 | 🌐 Go | 📅 2026-10-12
 * [Amazon FSx for Lustre CSI driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver) ⭐ 145 | 🐛 15 | 🌐 Go | 📅 2026-10-07
 * [OpenEBS](https://help.mayadata.io/hc/en-us/articles/360037226451-Creating-an-OpenEBS-cluster-in-an-EKS-cluster)
 
 ## Ingress
 
-* [ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) ⭐ 4,337 | 🐛 137 | 🌐 Go | 📅 2026-10-09 - AWS ALB Ingress Controller for Kubernetes
-* [Contour](https://github.com/projectcontour/contour) ⭐ 3,956 | 🐛 134 | 🌐 HTML | 📅 2026-10-11
-* [Gloo](https://github.com/solo-io/gloo) ⭐ 171 | 🐛 1,874 | 🌐 Go | 📅 2026-10-06 - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
+* [ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) ⭐ 4,338 | 🐛 136 | 🌐 Go | 📅 2026-10-09 - AWS ALB Ingress Controller for Kubernetes
+* [Contour](https://github.com/projectcontour/contour) ⭐ 3,957 | 🐛 136 | 🌐 HTML | 📅 2026-10-11
+* [Gloo](https://github.com/solo-io/gloo) ⭐ 171 | 🐛 1,881 | 🌐 Go | 📅 2026-10-06 - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 * [Traefik](https://containo.us/traefik/) — Cloud Native Edge Router
 * [Nginx](https://aws.amazon.com/blogs/opensource/network-load-balancer-nginx-ingress-controller-eks/)
 
 ## API gateways
 
-* [Kong](https://github.com/Kong/kong) ⭐ 44,262 | 🐛 224 | 🌐 Lua | 📅 2026-10-10
-* [Ambassador](https://github.com/datawire/ambassador) ⭐ 4,521 | 🐛 410 | 🌐 Python | 📅 2026-10-09
+* [Kong](https://github.com/Kong/kong) ⭐ 44,259 | 🐛 220 | 🌐 Lua | 📅 2026-10-12
+* [Ambassador](https://github.com/datawire/ambassador) ⭐ 4,521 | 🐛 409 | 🌐 Python | 📅 2026-10-12
 * [Amazon API Gateway](https://aws.amazon.com/blogs/containers/api-gateway-as-an-ingress-controller-for-eks/)
 
 ## Service meshes
@@ -231,7 +231,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Machine learning
 
-* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,899 | 🐛 1 | 📅 2026-09-30 — Machine Learning Toolkit for Kubernetes
+* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,901 | 🐛 1 | 📅 2026-09-30 — Machine Learning Toolkit for Kubernetes
 * [Optimizing Spark performance on Kubernetes](https://aws.amazon.com/blogs/containers/optimizing-spark-performance-on-kubernetes/)
 * [**Video** AWS re:Invent 2019: Building machine-learning infrastructure on Amazon EKS with Kubeflow (CON306-R1)](https://www.youtube.com/watch?v=ULlqukKVKBo)
 
@@ -248,7 +248,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Miscellaneous
 
-* [AWS container services roadmap](https://github.com/aws/containers-roadmap/projects/1) ⭐ 5,361 | 🐛 1,594 | 🌐 Shell | 📅 2025-03-25
+* [AWS container services roadmap](https://github.com/aws/containers-roadmap/projects/1) ⭐ 5,361 | 🐛 1,593 | 🌐 Shell | 📅 2025-03-25
 * [Container content ideas for AWS](https://github.com/awslabs/container-content-ideas-for-aws/projects/1) ⚠️ Archived
 * [AWS containers blog](https://aws.amazon.com/blogs/containers/)
 * [Nick Brandaleone's blog](https://www.nickaws.net)
@@ -293,4 +293,4 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
